@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td>
-      C# Programing Basics
+      Java Programing Basics
     </td>
     <td>
       <a href="https://github.com/Mithras11/SoftUni-Software-Engineering/blob/main/SoftUni-Certificates/Programming%20Basics%20with%20Java%20-%20April%202020%20-%20Honorable%20mention.pdf">
