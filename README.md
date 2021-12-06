@@ -86,5 +86,15 @@
         </a>
     </td>
   </tr>
+   <tr>
+    <td>
+      Entity Framework Core
+    </td>
+    <td>
+      <a href="https://github.com/Mithras11/SoftUni-Software-Engineering/blob/main/SoftUni-Certificates/Entity%20Framework%20Core%20-%20October%202021%20-%20Certificate.pdf">
+      Link
+        </a>
+    </td>
+  </tr>
   
 </table>
