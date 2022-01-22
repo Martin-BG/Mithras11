@@ -2,7 +2,7 @@
 
 <h3 align="center">An Aspiring Student at Software University</h3> 
 
-<img src="https://github.com/Mithras11/SoftUni-Software-Engineering/blob/main/SoftUni-Certificates/softuni%20logo.png">
+<img src="https://github.com/Mithras11/Course_Certificates-Softuni/blob/main/softuni%20logo.png">
 
 <div align="center">  
   
