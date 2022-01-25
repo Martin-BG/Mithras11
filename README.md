@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>  
-      C# Fundamentals
+      C# Fundamentals 
     </td>
     <td>
       <a href="https://github.com/Mithras11/Course_Certificates-Softuni/blob/main/C%23%20Fundamentals%20-%20September%202020%20-%20Certificate.pdf">
