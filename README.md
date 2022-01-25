@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td>
-      Java Programing Basics
+      Java Programming Basics 
     </td>
     <td>
       <a href="https://github.com/Mithras11/Course_Certificates-Softuni/blob/main/Programming%20Basics%20with%20Java%20-%20April%202020%20-%20Honorable%20mention.pdf">
