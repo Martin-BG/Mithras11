@@ -5,8 +5,7 @@
 <img src="https://github.com/Mithras11/Course_Certificates-Softuni/blob/main/softuni%20logo.png">
 
 <div align="center">  
-  
-<img height=160em src="https://github-readme-stats.vercel.app/api?username=Mithras11&show_icons=true&theme=react">
+
 <img height=160em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithras11&layout=compact&theme=react">
   
  </div>
