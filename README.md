@@ -7,7 +7,7 @@
 <div align="center">  
     
 <img height=160em src="https://github-readme-stats.vercel.app/api?username=Mithras11&show_icons=true&theme=react">
-<img height=160em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithras11&layout=compact&theme=react">
+<img height=159em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithras11&layout=compact&theme=react">
   
  </div>
  
